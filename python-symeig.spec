@@ -3,7 +3,7 @@
 Summary: Symmetrical eigenvalue routines for numpy
 Name: 	 python-%{tarname}
 Version: 1.4.1
-Release: 4
+Release: 5
 Source0: %{tarname}-%{version}.tar.lzma
 License: LGPLv3+
 Group: 	 Development/Python
