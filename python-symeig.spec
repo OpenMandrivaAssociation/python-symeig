@@ -7,7 +7,7 @@ Release: 5
 Source0: %{tarname}-%{version}.tar.lzma
 License: LGPLv3+
 Group: 	 Development/Python
-Url: 	 http://mdp-toolkit.sourceforge.net/symeig.html
+Url: 	 https://mdp-toolkit.sourceforge.net/symeig.html
 Requires: python >= 2.4, python-numpy
 BuildRequires: lapack-devel
 BuildRequires: python-devel >= 2.4
